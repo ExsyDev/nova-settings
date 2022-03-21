@@ -52,7 +52,7 @@
       "url": "https://github.com/laravel/nova-dusk-suite"
     },
     {
-      "type": "git",
+      "type": "vcs",
       "url": "https://github.com/ExsyDev/nova-translations-loader"
     }
   ],
